@@ -1,0 +1,16 @@
+D:\BK\ff\LV\Socket\Socket\bin\Debug\netcoreapp3.1\Socket.exe
+D:\BK\ff\LV\Socket\Socket\bin\Debug\netcoreapp3.1\Socket.deps.json
+D:\BK\ff\LV\Socket\Socket\bin\Debug\netcoreapp3.1\Socket.runtimeconfig.json
+D:\BK\ff\LV\Socket\Socket\bin\Debug\netcoreapp3.1\Socket.runtimeconfig.dev.json
+D:\BK\ff\LV\Socket\Socket\bin\Debug\netcoreapp3.1\Socket.dll
+D:\BK\ff\LV\Socket\Socket\bin\Debug\netcoreapp3.1\Socket.pdb
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.csproj.AssemblyReference.cache
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.Form1.resources
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.csproj.GenerateResource.cache
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.GeneratedMSBuildEditorConfig.editorconfig
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.AssemblyInfoInputs.cache
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.AssemblyInfo.cs
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.csproj.CoreCompileInputs.cache
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.dll
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.pdb
+D:\BK\ff\LV\Socket\Socket\obj\Debug\netcoreapp3.1\Socket.genruntimeconfig.cache
